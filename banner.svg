@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#111d3b"/>
+    <stop offset="0.62" stop-color="#14213d"/>
+    <stop offset="1" stop-color="#123b45"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#19c6b2"/>
+    <stop offset="1" stop-color="#1b9caa"/>
+  </linearGradient>
+  <filter id="shadow"><feGaussianBlur stdDeviation="12"/></filter>
+</defs>
+<rect width="1200" height="440" rx="28" fill="url(#bg)"/>
+<circle cx="1090" cy="80" r="150" fill="#0c8d8c" opacity=".10" filter="url(#shadow)"/>
+<rect x="58" y="54" width="530" height="38" rx="19" fill="#1a3158" stroke="#31527d"/>
+<circle cx="79" cy="73" r="6" fill="#31d69a"/>
+<text x="98" y="79" fill="#e6f1ff" font-family="Arial, sans-serif" font-size="15">Open to Opportunities | Python Backend Developer &amp; Agentic AI Engineer</text>
+<text x="58" y="196" fill="#f4f7ff" font-family="Arial, sans-serif" font-size="66" font-weight="700">Shafi Ahamedh</text>
+<text x="60" y="244" fill="url(#accent)" font-family="Arial, sans-serif" font-size="24" font-weight="700">Python Backend Developer · Agentic AI Engineer</text>
+<text x="60" y="294" fill="#aebdd2" font-family="Arial, sans-serif" font-size="19">I build FastAPI backends that handle millions of records,</text>
+<text x="60" y="322" fill="#aebdd2" font-family="Arial, sans-serif" font-size="19">and AI agents that act on real data instead of guessing.</text>
+<g font-family="Arial, sans-serif" font-size="15">
+  <rect x="60" y="356" width="100" height="34" rx="17" fill="#102c43" stroke="#168d8c"/><text x="110" y="378" text-anchor="middle" fill="#35d4c2">FastAPI</text>
+  <rect x="172" y="356" width="126" height="34" rx="17" fill="#102c43" stroke="#168d8c"/><text x="235" y="378" text-anchor="middle" fill="#35d4c2">SQLAlchemy</text>
+  <rect x="310" y="356" width="88" height="34" rx="17" fill="#102c43" stroke="#168d8c"/><text x="354" y="378" text-anchor="middle" fill="#35d4c2">MySQL</text>
+  <rect x="410" y="356" width="108" height="34" rx="17" fill="#302b27" stroke="#bd8126"/><text x="464" y="378" text-anchor="middle" fill="#f6b94d">LangGraph</text>
+  <rect x="530" y="356" width="108" height="34" rx="17" fill="#302b27" stroke="#bd8126"/><text x="584" y="378" text-anchor="middle" fill="#f6b94d">LangChain</text>
+</g>
+<rect x="700" y="55" width="440" height="320" rx="20" fill="#0b1428" stroke="#29466d" stroke-width="2"/>
+<path d="M700 75 Q700 55 720 55 H1120 Q1140 55 1140 75 V94 H700Z" fill="#1a2c4d"/>
+<circle cx="724" cy="75" r="6" fill="#ff6666"/><circle cx="746" cy="75" r="6" fill="#ffc04d"/><circle cx="768" cy="75" r="6" fill="#37c978"/>
+<text x="920" y="80" fill="#9fb4d2" font-family="monospace" font-size="13" text-anchor="middle">ziya — agent trace</text>
+<g font-family="monospace" font-size="15">
+<text x="724" y="133" fill="#31d6c1">› ziya chat "laptops under ₹80k"</text>
+<text x="740" y="168" fill="#a9b7ca">thinking...</text>
+<text x="742" y="205" fill="#f4b84b">▸ intent</text><text x="830" y="205" fill="#d5e1f2">filter by category + price</text>
+<text x="742" y="237" fill="#f4b84b">▸ tool</text><text x="830" y="237" fill="#31cbb7">filter_products_tool</text>
+<text x="742" y="269" fill="#f4b84b">▸ api</text><text x="830" y="269" fill="#d5e1f2">GET /ziya/filter_products</text>
+<text x="742" y="301" fill="#f4b84b">▸ mysql</text><text x="830" y="301" fill="#d5e1f2">4 matching rows</text>
+<text x="724" y="340" fill="#45d98b">✓ 4 products found — grounded in live data</text>
+</g>
+</svg>
