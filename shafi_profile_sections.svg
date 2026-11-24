@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1150" height="570" viewBox="0 0 1150 570">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#111d3b"/><stop offset="1" stop-color="#101b33"/>
+ </linearGradient>
+</defs>
+<rect width="1150" height="570" rx="24" fill="url(#bg)" stroke="#29466d" stroke-width="2"/>
+<!-- capability strip -->
+<g font-family="Arial,sans-serif" text-anchor="middle">
+ <line x1="287" y1="28" x2="287" y2="145" stroke="#29405f"/>
+ <line x1="575" y1="28" x2="575" y2="145" stroke="#29405f"/>
+ <line x1="863" y1="28" x2="863" y2="145" stroke="#29405f"/>
+ <text x="143" y="77" font-size="34" font-weight="700" fill="#20bba9">UX</text>
+ <text x="143" y="111" font-size="16" fill="#aebdd2">User research &amp; flows</text>
+ <text x="431" y="77" font-size="34" font-weight="700" fill="#f5a623">UI</text>
+ <text x="431" y="111" font-size="16" fill="#aebdd2">Visual interface design</text>
+ <text x="719" y="77" font-size="34" font-weight="700" fill="#20bba9">PROTOTYPE</text>
+ <text x="719" y="111" font-size="16" fill="#aebdd2">Interactive experiences</text>
+ <text x="1007" y="77" font-size="34" font-weight="700" fill="#f5a623">SHIP</text>
+ <text x="1007" y="111" font-size="16" fill="#aebdd2">Handoff &amp; iteration</text>
+</g>
+<text x="34" y="202" font-family="Arial,sans-serif" font-size="29" font-weight="700" fill="#f3f6ff">My Design &amp; Product Toolkit</text>
+<rect x="30" y="224" width="1090" height="310" rx="18" fill="#111d38" stroke="#29466d" stroke-width="2"/>
+<g font-family="Arial,sans-serif" font-size="17">
+ <text x="64" y="278" font-weight="700" fill="#20bba9">Design</text>
+ <text x="180" y="278" fill="#e6edf8">Figma</text>
+ <text x="278" y="278" fill="#e6edf8">Adobe XD</text>
+ <text x="410" y="278" fill="#e6edf8">Photoshop</text>
+ <text x="550" y="278" fill="#e6edf8">Illustrator</text>
+ <text x="694" y="278" fill="#e6edf8">Balsamiq</text>
+ <text x="64" y="344" font-weight="700" fill="#f5a623">Build</text>
+ <text x="180" y="344" fill="#e6edf8">Framer</text>
+ <text x="278" y="344" fill="#e6edf8">Webflow</text>
+ <text x="410" y="344" fill="#e6edf8">HTML</text>
+ <text x="550" y="344" fill="#e6edf8">CSS</text>
+ <text x="694" y="344" fill="#e6edf8">JavaScript</text>
+ <text x="64" y="410" font-weight="700" fill="#20bba9">Practice</text>
+ <text x="180" y="410" fill="#e6edf8">Wireframing</text>
+ <text x="345" y="410" fill="#e6edf8">Prototyping</text>
+ <text x="520" y="410" fill="#e6edf8">UX Research</text>
+ <text x="690" y="410" fill="#e6edf8">Design Systems</text>
+ <text x="64" y="476" font-weight="700" fill="#aebdd2">Workflow</text>
+ <text x="180" y="476" fill="#e6edf8">User Flows</text>
+ <text x="345" y="476" fill="#e6edf8">Responsive UI</text>
+ <text x="520" y="476" fill="#e6edf8">Usability Testing</text>
+ <text x="740" y="476" fill="#e6edf8">Developer Handoff</text>
+</g>
+<g fill="none" stroke="#29466d">
+ <line x1="60" y1="300" x2="1088" y2="300"/>
+ <line x1="60" y1="366" x2="1088" y2="366"/>
+ <line x1="60" y1="432" x2="1088" y2="432"/>
+</g>
+</svg>
